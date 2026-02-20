@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -95,4 +96,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
