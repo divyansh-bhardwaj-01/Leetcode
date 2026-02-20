@@ -3,11 +3,12 @@ class Solution {
         if(n<=0){
             return false;
         }
-        int power=3;
-        for(int i=0;i<Math.sqrt(n)+1;i++){
-            if(n==Math.pow(power,i)){
+        long power=1;
+        for(int i=0;power<=n;i++){
+            if(power==n){
                 return true;
             }
+            power=power*3;
         }
         return false;
     }
