@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0162-find-peak-element) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
