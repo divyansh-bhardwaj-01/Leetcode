@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+## Enumeration
+|  |
+| ------- |
+| [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 <!---LeetCode Topics End-->
