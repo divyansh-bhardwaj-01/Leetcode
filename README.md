@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0724-find-pivot-index](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -186,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
