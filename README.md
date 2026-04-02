@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2951-find-the-peaks](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2951-find-the-peaks) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3115-maximum-prime-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3115-maximum-prime-difference) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2951-find-the-peaks](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2951-find-the-peaks) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
