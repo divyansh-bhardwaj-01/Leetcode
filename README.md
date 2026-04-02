@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1025-divisor-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1025-divisor-game) |
+| [1323-maximum-69-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1925-count-square-sum-triples](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2119-a-number-after-a-double-reversal](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1323-maximum-69-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1323-maximum-69-number) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
 |  |
