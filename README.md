@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0724-find-pivot-index) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0867-transpose-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0242-valid-anagram) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
