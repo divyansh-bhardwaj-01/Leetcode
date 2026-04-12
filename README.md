@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3866-first-unique-even-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3866-first-unique-even-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3866-first-unique-even-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
