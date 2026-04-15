@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1025-divisor-game) |
 | [1323-maximum-69-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1323-maximum-69-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1486-xor-operation-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1925-count-square-sum-triples](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2119-a-number-after-a-double-reversal](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2119-a-number-after-a-double-reversal) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
 |  |
