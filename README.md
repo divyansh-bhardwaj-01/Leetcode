@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0412-fizz-buzz) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0867-transpose-matrix) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
