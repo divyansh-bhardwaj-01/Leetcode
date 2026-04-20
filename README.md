@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1323-maximum-69-number) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
 |  |
