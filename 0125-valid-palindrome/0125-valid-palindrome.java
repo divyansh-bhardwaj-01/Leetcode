@@ -8,7 +8,7 @@ class Solution {
         for(int i=result.length()-1;i>=0;i--){
             str.append(result.charAt(i));
         }
-        if(str.toString().equals(result)){
+        if(String.valueOf(str).equals(result)){
             return true;
         }
         return false;
