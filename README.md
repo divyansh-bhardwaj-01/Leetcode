@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2527-find-xor-beauty-of-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
+| [2579-count-total-number-of-colored-cells](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [2843-count-symmetric-integers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [3115-maximum-prime-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
