@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0724-find-pivot-index) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0389-find-the-difference) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -118,16 +121,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -292,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -311,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
