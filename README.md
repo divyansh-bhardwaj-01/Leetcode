@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3115-maximum-prime-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2951-find-the-peaks](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2951-find-the-peaks) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Number Theory
 |  |
