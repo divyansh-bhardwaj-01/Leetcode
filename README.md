@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Simulation
 |  |
