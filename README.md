@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
+| [3828-final-element-after-subarray-deletions](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3866-first-unique-even-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
+| [3828-final-element-after-subarray-deletions](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Simulation
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1025-divisor-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2396-strictly-palindromic-number) |
+| [3828-final-element-after-subarray-deletions](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1025-divisor-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Matrix
 |  |
 | ------- |
