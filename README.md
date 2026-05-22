@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1539-kth-missing-positive-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0504-base-7) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1732-find-the-highest-altitude](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 ## Memoization
 |  |
