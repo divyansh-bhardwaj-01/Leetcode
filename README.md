@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
