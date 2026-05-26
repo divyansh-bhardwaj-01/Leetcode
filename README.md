@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2951-find-the-peaks](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2951-find-the-peaks) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Recursion
 |  |
