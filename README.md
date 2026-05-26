@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [2651-calculate-delayed-arrival-time](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2843-count-symmetric-integers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2843-count-symmetric-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3115-maximum-prime-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3115-maximum-prime-difference) |
@@ -389,4 +390,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
+## Backtracking
+|  |
+| ------- |
+| [2698-find-the-punishment-number-of-an-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
