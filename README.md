@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3794-reverse-string-prefix) |
