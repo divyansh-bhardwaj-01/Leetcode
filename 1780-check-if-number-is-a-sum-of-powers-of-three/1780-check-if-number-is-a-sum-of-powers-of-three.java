@@ -1,13 +1,17 @@
 class Solution {
     public boolean checkPowersOfThree(int n) {
+        StringBuilder sb=new StringBuilder();
         while(n!=0){
             int digit=n%3;
-            if(digit==2){
-                return false;
-            }
+             sb.append(digit);
             n=n/3;
         }
-        
-        return true;
+         String str=sb.reverse().toString();
+         for(int i=0;i<str.length();i++){
+            if(str.charAt(i)=='2'){
+                return false;
+            }
+         }
+         return true;
     }
 }
