@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2126-destroying-asteroids](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-arithmetic-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2126-destroying-asteroids](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2578-split-with-minimum-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2784-check-if-array-is-good](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2784-check-if-array-is-good) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0011-container-with-most-water) |
 | [1323-maximum-69-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1323-maximum-69-number) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2126-destroying-asteroids](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2578-split-with-minimum-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
