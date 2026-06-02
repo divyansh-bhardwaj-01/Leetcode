@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2833-furthest-point-from-origin](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
