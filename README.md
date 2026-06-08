@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0231-power-of-two) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
