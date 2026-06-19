@@ -1,6 +1,6 @@
 class Solution {
     public int largestAltitude(int[] gain) {
-        List<Integer>ans=new ArrayList<>();
+        ArrayList<Integer>ans=new ArrayList<>();
         ans.add(0);
         ans.add(gain[0]);
          if (gain.length == 0) return 0;
