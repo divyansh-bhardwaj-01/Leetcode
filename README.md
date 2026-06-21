@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -481,4 +482,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
+## Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
