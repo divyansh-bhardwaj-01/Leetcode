@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0791-custom-sort-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0504-base-7) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0791-custom-sort-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0791-custom-sort-string) |
 | [1189-maximum-number-of-balloons](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0791-custom-sort-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
