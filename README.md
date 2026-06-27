@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2843-count-symmetric-integers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2843-count-symmetric-integers) |
+| [2928-distribute-candies-among-children-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3115-maximum-prime-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3115-maximum-prime-difference) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2843-count-symmetric-integers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2843-count-symmetric-integers) |
+| [2928-distribute-candies-among-children-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2951-find-the-peaks](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2928-distribute-candies-among-children-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Sliding Window
 |  |
