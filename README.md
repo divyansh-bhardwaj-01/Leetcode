@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3828-final-element-after-subarray-deletions](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3866-first-unique-even-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3866-first-unique-even-element) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3866-first-unique-even-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3866-first-unique-even-element) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## String
 |  |
 | ------- |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Memoization
 |  |
 | ------- |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Backtracking
 |  |
 | ------- |
