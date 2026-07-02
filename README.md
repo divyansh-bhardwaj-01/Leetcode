@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0412-fizz-buzz) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [3828-final-element-after-subarray-deletions](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
