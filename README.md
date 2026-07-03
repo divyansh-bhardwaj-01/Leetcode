@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1630-arithmetic-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-maximum-ice-cream-bars](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1630-arithmetic-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2540-minimum-common-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2540-minimum-common-value) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1630-arithmetic-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1630-arithmetic-subarrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -336,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0647-palindromic-substrings) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2109-adding-spaces-to-a-string) |
