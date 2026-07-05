@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0930-binary-subarrays-with-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Backtracking
