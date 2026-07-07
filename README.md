@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1122-relative-sort-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1122-relative-sort-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1122-relative-sort-array) |
+| [1288-remove-covered-intervals](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
