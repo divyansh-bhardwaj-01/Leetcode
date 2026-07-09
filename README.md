@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0503-next-greater-element-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
@@ -541,11 +542,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Segment Tree
 |  |
