@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1630-arithmetic-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1630-arithmetic-subarrays) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1630-arithmetic-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1980-find-unique-binary-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2833-furthest-point-from-origin) |
