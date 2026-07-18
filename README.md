@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2527-find-xor-beauty-of-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2540-minimum-common-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2540-minimum-common-value) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2527-find-xor-beauty-of-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2413-smallest-even-multiple](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3115-maximum-prime-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
