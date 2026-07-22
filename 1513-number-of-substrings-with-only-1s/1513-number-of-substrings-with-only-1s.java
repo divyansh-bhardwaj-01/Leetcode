@@ -1,17 +1,18 @@
 class Solution {
     public int numSub(String s) {
         int ans=0;
-        int count=0;
+        Map<Character,Integer>mp=new HashMap<>();
         for(int i=0;i<s.length();i++){
-            if(s.charAt(i)=='1'){
-              
-                count++;
-                ans=(ans+count)%1000000007;
+            char ch=s.charAt(i);
+            ans=ans%1000000007;
+            if(ch=='1'){
+            mp.put(ch,mp.getOrDefault(ch,0)+1);
+            ans=ans+mp.get(ch);
             }
             else{
-                count=0;
+                mp=new HashMap<>();
             }
-
+            
         }
         return ans;
     }
