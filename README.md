@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3618-split-array-by-prime-indices](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3689-maximum-total-subarray-value-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
 | ------- |
