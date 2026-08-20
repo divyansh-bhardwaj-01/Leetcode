@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2951-find-the-peaks](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2951-find-the-peaks) |
 | [2960-count-tested-devices-after-test-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -631,6 +633,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Backtracking
 |  |
