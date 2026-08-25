@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
