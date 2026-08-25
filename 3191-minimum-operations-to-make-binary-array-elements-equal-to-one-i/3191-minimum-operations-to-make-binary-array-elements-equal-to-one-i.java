@@ -1,29 +1,19 @@
 class Solution {
     public int minOperations(int[] nums) {
-        List<Integer>ans=new ArrayList<>();
-        for(int i:nums){
-            ans.add(i);
-        }
         int count=0;
-         for(int i=0;i<ans.size()-2;i++){
-            if(ans.get(i)==0){
-                ans.set(i,1);
-                if(ans.get(i+1)==0) ans.set(i+1,1);
-                else if(ans.get(i+1)==1) ans.set(i+1,0);
-                if(ans.get(i+2)==0) ans.set(i+2,1);
-                else if(ans.get(i+2)==1) ans.set(i+2,0);
-                 count++;
+        for(int i=0;i<nums.length-2;i++){
+            if(nums[i]==0){
+                nums[i]=1;
+                nums[i+1]=nums[i+1]==1 ? 0:1;
+                nums[i+2]=nums[i+2]==1 ? 0:1;
+                count++;
             }
-         }
-         int acount=0;
-         for(int i=0;i<ans.size();i++){
-            if(ans.get(i)==1){
-              acount++;
+        }
+            int acount=0;
+            for(int j=0;j<nums.length;j++){
+                if(nums[j]==1) acount++;
             }
-         }
-         if(acount==ans.size()){
-            return count;
-         }
+            if(acount==nums.length) return count;
          return -1;
     }
 }
