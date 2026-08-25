@@ -1,22 +1,13 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        Map<Integer,Integer>mp=new TreeMap<>();
-        ArrayList<Integer>ans=new ArrayList<>();
-        for(int i=0;i<nums.length;i++){
-            mp.put(nums[i],mp.getOrDefault(nums[i],0)+1);
+        Set<Integer>st=new HashSet<>();
+        for(int i:nums){
+            st.add(i);
         }
-       for(int i=k;i<=100000;i=i+k){
-           ans.add(i);
-       }
-       for(int i=0;i<ans.size();i++){
-        int num=ans.get(i);
-        if(mp.containsKey(num)){
-                continue;
+        int num=k;
+        while(st.contains(num)){
+            num=num+k;
         }
-        else{
-            return ans.get(i);
-        }
-       }
-       return 0;
+        return num;
     }
 }
