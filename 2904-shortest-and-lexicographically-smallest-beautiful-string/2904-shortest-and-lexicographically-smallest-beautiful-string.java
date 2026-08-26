@@ -15,6 +15,7 @@ class Solution {
                     min=Math.min(min,len);
                     str.setLength(0);
                     str.append(sb);}
+                    break;
                  }
             }
         }
