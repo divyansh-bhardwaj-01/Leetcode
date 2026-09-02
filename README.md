@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2578-split-with-minimum-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2784-check-if-array-is-good](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2784-check-if-array-is-good) |
 | [3467-transform-array-by-parity](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2405-optimal-partition-of-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2578-split-with-minimum-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2578-split-with-minimum-sum) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -620,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2256-minimum-average-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2270-number-of-ways-to-split-array) |
 | [2574-left-and-right-sum-differences](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [2587-rearrange-array-to-maximize-prefix-score](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
