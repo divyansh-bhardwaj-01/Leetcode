@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0791-custom-sort-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1513-number-of-substrings-with-only-1s) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
