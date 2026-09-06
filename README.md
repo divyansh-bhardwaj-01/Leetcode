@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3612-process-string-with-special-operations-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
