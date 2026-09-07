@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3618-split-array-by-prime-indices) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3689-maximum-total-subarray-value-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
@@ -700,11 +702,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1441-build-an-array-with-stack-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
+| [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
 ## Segment Tree
 |  |
 | ------- |
