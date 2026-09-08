@@ -14,7 +14,7 @@ class Solution {
                 
             }
             else{
-                st.add(ch);
+                return false;
             }
 
         }
