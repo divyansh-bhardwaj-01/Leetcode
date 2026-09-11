@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3618-split-array-by-prime-indices) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3731-find-missing-elements) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -605,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2928-distribute-candies-among-children-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [2951-find-the-peaks](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
