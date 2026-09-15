@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3818-minimum-prefix-removal-to-make-array-strictly-increasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3818-minimum-prefix-removal-to-make-array-strictly-increasing) |
 | [3828-final-element-after-subarray-deletions](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+| [3834-merge-adjacent-equal-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3866-first-unique-even-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -458,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3701-compute-alternating-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [3834-merge-adjacent-equal-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -746,6 +748,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3638-maximum-balanced-shipments](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3834-merge-adjacent-equal-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
