@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3618-split-array-by-prime-indices) |
+| [3638-maximum-balanced-shipments](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2063-vowels-of-all-substrings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2063-vowels-of-all-substrings) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
+| [3638-maximum-balanced-shipments](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Game Theory
 |  |
@@ -610,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2587-rearrange-array-to-maximize-prefix-score](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2587-rearrange-array-to-maximize-prefix-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
+| [3638-maximum-balanced-shipments](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3689-maximum-total-subarray-value-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Enumeration
@@ -741,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2390-removing-stars-from-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
+| [3638-maximum-balanced-shipments](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Monotonic Stack
 |  |
@@ -749,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
+| [3638-maximum-balanced-shipments](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3638-maximum-balanced-shipments) |
 ## Segment Tree
 |  |
 | ------- |
