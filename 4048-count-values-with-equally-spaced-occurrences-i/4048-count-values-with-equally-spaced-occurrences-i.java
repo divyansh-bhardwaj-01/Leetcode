@@ -15,7 +15,6 @@ class Solution {
              num2=values.get(1);
              num3=values.get(2);  
             }
-            
             if(values.size()==3 && (num2-num1) == (num3-num2)) count++;
         }
         return count;
