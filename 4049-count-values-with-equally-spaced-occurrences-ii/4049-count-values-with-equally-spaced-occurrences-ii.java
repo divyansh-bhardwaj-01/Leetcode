@@ -1,6 +1,6 @@
 class Solution {
     public int countSpecialIntegers(int[] nums) {
-          Map<Integer,List<Integer>>mp=new HashMap<>();
+        Map<Integer,List<Integer>>mp=new HashMap<>();
         for(int i=0;i<nums.length;i++){
             mp.computeIfAbsent(nums[i],k-> new ArrayList()).add(i);
         }
