@@ -384,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0670-maximum-swap](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0670-maximum-swap) |
 | [0728-self-dividing-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0877-stone-game) |
@@ -615,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0135-candy) |
+| [0670-maximum-swap](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0670-maximum-swap) |
 | [0881-boats-to-save-people](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1323-maximum-69-number) |
