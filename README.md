@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3227-vowels-game-in-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3227-vowels-game-in-a-string) |
+| [3271-hash-divided-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3612-process-string-with-special-operations-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2960-count-tested-devices-after-test-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3271-hash-divided-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3271-hash-divided-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3561-resulting-string-after-adjacent-removals](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3561-resulting-string-after-adjacent-removals) |
 | [3612-process-string-with-special-operations-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
