@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1630-arithmetic-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1695-maximum-erasure-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1732-find-the-highest-altitude](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1630-arithmetic-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1630-arithmetic-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1695-maximum-erasure-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1980-find-unique-binary-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1695-maximum-erasure-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
