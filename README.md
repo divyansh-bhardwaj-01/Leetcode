@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0822-card-flipping-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0822-card-flipping-game) |
+| [0848-shifting-letters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0848-shifting-letters) |
 | [0867-transpose-matrix](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0791-custom-sort-string) |
+| [0848-shifting-letters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0724-find-pivot-index) |
+| [0848-shifting-letters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0848-shifting-letters) |
 | [0930-binary-subarrays-with-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
