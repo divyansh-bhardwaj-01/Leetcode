@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2523-closest-prime-numbers-in-range](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [2527-find-xor-beauty-of-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2527-find-xor-beauty-of-array) |
 | [2578-split-with-minimum-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2579-count-total-number-of-colored-cells](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2579-count-total-number-of-colored-cells) |
@@ -688,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
 | [2413-smallest-even-multiple](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
+| [2523-closest-prime-numbers-in-range](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 | [3115-maximum-prime-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3115-maximum-prime-difference) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3618-split-array-by-prime-indices](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3618-split-array-by-prime-indices) |
@@ -844,4 +846,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+## Primality Test
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Sieve Theory
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [2523-closest-prime-numbers-in-range](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
