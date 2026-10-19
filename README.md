@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0822-card-flipping-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0822-card-flipping-game) |
 | [0848-shifting-letters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0848-shifting-letters) |
@@ -799,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0946-validate-stack-sequences) |
@@ -818,6 +820,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0739-daily-temperatures) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3523-make-array-non-decreasing](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3523-make-array-non-decreasing) |
