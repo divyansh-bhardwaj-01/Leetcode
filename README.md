@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -623,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1227-airplane-seat-assignment-probability) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2063-vowels-of-all-substrings](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2063-vowels-of-all-substrings) |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
