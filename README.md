@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1122-relative-sort-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1122-relative-sort-array) |
 | [1189-maximum-number-of-balloons](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0848-shifting-letters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0848-shifting-letters) |
 | [0856-score-of-parentheses](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -596,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0389-find-the-difference) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1442-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1442-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1486-xor-operation-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
