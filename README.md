@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1695-maximum-erasure-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1748-sum-of-unique-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -821,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1695-maximum-erasure-value) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2799-count-complete-subarrays-in-an-array) |
