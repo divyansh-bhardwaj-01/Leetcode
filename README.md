@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3467-transform-array-by-parity](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -772,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -834,6 +836,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3325-count-substrings-with-k-frequency-characters-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3325-count-substrings-with-k-frequency-characters-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Backtracking
 |  |
