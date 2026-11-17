@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0413-arithmetic-slices) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0135-candy) |
+| [0334-increasing-triplet-subsequence](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0670-maximum-swap](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0670-maximum-swap) |
 | [0881-boats-to-save-people](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -928,4 +930,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/divyansh-bhardwaj-01/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
