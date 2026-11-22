@@ -4,26 +4,17 @@ class Solution {
         if(nums.length==1){
             return 1;
         }
-        for(int i=0;i<nums.length;i++){
+        for(int i=1;i<nums.length-1;i++){
             int sum=0;
-            int len=0;
-            for(int j=i-1;j>=0 && j==i-1;j--){
-                if(j>=0){
-                   sum=sum+nums[j];
-                    len++;
-                }
-                
-            }
-
-            for(int j=i+1;j<nums.length;j++){
-                if(j==i+1){
-                   sum=sum+nums[j];
-                    len++;
-                }
-                
-            }
-            
+            int len=2;
+            sum=sum+nums[i-1]+nums[i+1];
             if((double)sum/len<=nums[i]) count++;
+        }
+        if(nums[0]>=nums[1]){
+            count++;
+        }
+        if(nums[nums.length-1]>=nums[nums.length-2]){
+            count++;
         }
         return count;
     }
